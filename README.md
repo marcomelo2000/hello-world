@@ -1,2 +1,3 @@
 # hello-world
-Olá Mundo
+
+O nosso grupo é composto pelos seguintes elementos: Marco, Welington, Carlos e Tomás. 

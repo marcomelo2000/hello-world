@@ -1,4 +1,4 @@
 # hello-world
 
-O nosso grupo é composto pelos seguintes elementos: Marco, Welington, Carlos e Tomás. 
-Teste123
+O nosso grupo é composto pelos seguintes elementos: Carlos, Marco, Tomás e Welington. 
+O Marco é muito bonito.

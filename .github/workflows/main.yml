@@ -6,7 +6,7 @@ jobs:
     if: github.ref == 'refs/heads/main'
     runs-on: [ubuntu-latest]
     steps:
-      - uses: actions/chekoutv1
+      - uses: actions/chekout@v1
       - name: Push to server
         uses: appleboy/ssh-action@master
         with:
